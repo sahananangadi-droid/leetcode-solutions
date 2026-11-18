@@ -7,3 +7,4 @@
 | 17/11 | Longest Common Prefix           | Strings       | Easy       | Solved | 25 min     |
 | 17/11 | Binary Search                   | Binary Search | Easy       | Solved | 10 min     |
 | 18/11 | Move Zeroes                     | Arrays        | Easy       | Solved | 10 min     |
+| 18/11 | Valid Parentheses               | Stack         | Easy       | Solved | 15 min     |
