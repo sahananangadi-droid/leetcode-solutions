@@ -6,5 +6,4 @@
 | 15/11 | Best Time to Buy and Sell Stock | Arrays        | Easy       | Solved | 20 min     |
 | 17/11 | Longest Common Prefix           | Strings       | Easy       | Solved | 25 min     |
 | 17/11 | Binary Search                   | Binary Search | Easy       | Solved | 10 min     |
-
-> > > > > > > a5776e1 (Add Binary Search solution with tests and docs)
+| 18/11 | Move Zeroes                     | Arrays        | Easy       | Solved | 10 min     |
